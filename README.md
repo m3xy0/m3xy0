@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mhteksi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 m3xy0/m3xy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
