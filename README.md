@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m3xy0.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: mhteksi@gmail.com
 
 
